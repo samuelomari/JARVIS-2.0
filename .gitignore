@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/*.db
+desktop-build/
+frontend/node_modules/
+frontend/dist/
+frontend/release/
+frontend/jarvis-backend.spec
+requirements.txt.save
